@@ -48,17 +48,6 @@
     width: 200px;
   }
 
-  .about-us .column-one,
-  .about-us .column-two {
-    width: 300px;
-    margin-bottom: 20px;
-  }
-
-  .about-us .column-three {
-    width: 300px;
-    margin-bottom: 70px;
-  }
-
   .portfolio .portfolio-margin {
     width: 300px;
   }
@@ -90,11 +79,6 @@
 
   .footer .margin {
     width: 300px;
-  }
-
-  .footer .margin .copyright {
-    width: 280px;
-    text-align: center;
   }
 
   .footer .margin .menu-footer {
@@ -221,18 +205,6 @@
     width: 700px;
   }
 
-  .about-us .column-one {
-    width: 233px;
-  }
-
-  .about-us .column-two {
-    width: 233px;
-  }
-
-  .about-us .column-three {
-    width: 233px;
-  }
-
   .portfolio .portfolio-margin {
     width: 600px;
   }
@@ -248,10 +220,7 @@
   .footer .margin .menu-footer {
     width: 350px;
   }
-
-  .footer .margin .copyright {
-    width: 320px;
-  }
+  
   .footer .margin {
     width: 700px;
   }

@@ -328,25 +328,6 @@ h1 span {
   border: 0;
 }
 
-.about-us p.title {
-  color: #919191;
-  margin-top: 40px;
-  width: 100%;
-  font-size: 15px;
-  text-align: center;
-}
-
-.about-us h2 {
-  text-align: center;
-  margin-top: 20px;
-  font-size: 29px;
-  color: black;
-  line-height: 1.2;
-  width: 100%;
-  position: relative;
-  font-weight: bold;
-}
-
 .about-us p {
   text-align: center;
   margin-top: 20px;
@@ -358,36 +339,13 @@ h1 span {
   font-weight: 400;
 }
 
-.about-us .column-one {
-  margin-top: 40px;
-  width: 300px;
-  float: left;
-  margin-bottom: 70px;
-  height: 350px;
-}
-
-.about-us .column-two {
-  margin-top: 40px;
-  width: 300px;
-  float: left;
-  margin-bottom: 70px;
-  height: 350px;
-}
-
-.about-us .column-three {
-  margin-top: 40px;
-  width: 300px;
-  float: left;
-  margin-bottom: 70px;
-  height: 350px;
-}
-
 /* My-skills */
 
 .my-skills {
   position: relative;
   width: 100%;
   height: 750px;
+  border: 2px solid black;
 }
 
 .my-skills h1 {
@@ -407,13 +365,6 @@ h1 span {
   height: 1px;
   width: 340px;
   border: 0;
-}
-
-.my-skills {
-  position: relative;
-  width: 100%;
-  height: 750px;
-  background-repeat: no-repeat;
 }
 
 /* expe-edu */
@@ -441,6 +392,45 @@ h1 span {
   height: 1px;
   width: 340px;
   border: 0;
+}
+
+.box {
+  overflow: hidden;
+}
+
+.cont_expe_edu {
+  text-align: left;
+  margin-top: 20px;
+  font-size: 15px;
+  width: 100%;
+  height: 750px;
+  color: #919191;
+  line-height: 1.4;
+  position: relative;
+  font-weight: 400;
+  border: 2px solid black;
+}
+
+.left {
+  float: left;
+  width: 50%;
+}
+
+.right {
+  float: right;
+  width: 50%;
+}
+
+.parrafo {
+  color: #131a21;
+  line-height: 1.2;
+  width: 90%;
+}
+
+.expe {
+  margin-left: 5px;
+  text-decoration: tomato;
+  line-height: 1.2;
 }
 
 /* Portfolio */
