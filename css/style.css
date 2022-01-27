@@ -345,7 +345,6 @@ h1 span {
   position: relative;
   width: 100%;
   height: 750px;
-  border: 2px solid black;
 }
 
 .my-skills h1 {
@@ -365,6 +364,22 @@ h1 span {
   height: 1px;
   width: 340px;
   border: 0;
+}
+
+.table_skills th {
+  border: 10px solid white;
+  border-radius: 50px;
+  background-color: #96d4d4;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  padding-left: 40px;
+  padding-right: 40px;
+  background: url(../img/skills/scrum.png) no-repeat center center;
+}
+
+.table_skills {
+  border-spacing: 400px;
+  width: 100%;
 }
 
 /* expe-edu */
